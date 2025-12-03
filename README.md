@@ -8,4 +8,4 @@ View the game in AI Studio: https://ai.studio/apps/drive/1AM-fNDG5JkBAvgVWum9kNX
 
 Just click the link above and login with your Google account.
 
-Make sure your google account meets the following requiremetns: https://ai.google.dev/gemini-api/docs/available-regions
+Make sure your google account meets the following requirements: https://ai.google.dev/gemini-api/docs/available-regions
